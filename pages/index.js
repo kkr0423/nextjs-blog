@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p> I am a webdeveloper</p>
+        <p> I am frontend developer</p>
       </section>
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
         <h2>📝エンジニアのブログ</h2>
